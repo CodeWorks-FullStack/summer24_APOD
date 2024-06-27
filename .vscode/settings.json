@@ -1,0 +1,26 @@
+{
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#c47fcd",
+    "statusBar.background": "#c47fcd",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#b35abf",
+    "statusBarItem.remoteBackground": "#c47fcd",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#c47fcd",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#c47fcd99",
+    "titleBar.inactiveForeground": "#15202b99",
+    "editorGroup.border": "#c47fcd",
+    "sideBar.border": "#c47fcd",
+    "statusBar.debuggingBackground": "#88cd7f",
+    "statusBar.debuggingForeground": "#15202b",
+    "tab.activeBorder": "#c47fcd"
+  },
+  "peacock.color": "#c47fcd",
+  "cSpell.words": [
+    "apod"
+  ],
+}
